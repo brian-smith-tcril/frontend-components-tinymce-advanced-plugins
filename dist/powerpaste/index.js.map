@@ -1,0 +1,1 @@
+{"version":3,"file":"index.js","names":["require"],"sources":["../../plugins/powerpaste/index.js"],"sourcesContent":["require('./plugin');\n"],"mappings":";;AAAAA,OAAO,CAAC,UAAU,CAAC"}

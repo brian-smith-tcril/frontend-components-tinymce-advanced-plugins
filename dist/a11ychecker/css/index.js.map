@@ -1,0 +1,1 @@
+{"version":3,"file":"index.js","names":["cssString","_default","exports"],"sources":["../../../plugins/a11ychecker/css/index.js"],"sourcesContent":["const cssString = '';\n\nexport default cssString;\n"],"mappings":";;;;;;AAAA,IAAMA,SAAS,GAAG,EAAE;AAAC,IAAAC,QAAA,GAAAC,OAAA,cAENF,SAAS"}
